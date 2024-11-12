@@ -16,8 +16,8 @@ The Playlist Project aims to revolutionize online learning by leveraging the pow
 ### Technologies (Planned)
 
 * **Frontend:** React
-* **Backend:** Node.js
-* **Database:** MongoDB
+* **Backend:** ASP.NET
+* **Database:** SQLite
 * **APIs:**
     * Piped: For YouTube video search
     * Llama AI (or similar NLP model): For natural language processing (to be confirmed)
